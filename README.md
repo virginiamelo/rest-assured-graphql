@@ -5,3 +5,9 @@
 * Implementar os testes para os cenários levantados
 * Fazer organização e refatorar seguindo boas práticas de programação
 * Adicionar o repositório no Github
+
+
+Equipe: 
+- Virgínia 
+- Polly
+- Yago
